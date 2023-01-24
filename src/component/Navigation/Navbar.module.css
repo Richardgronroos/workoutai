@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.brand {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.navigation {
+  height: 100%;
+  
+}
