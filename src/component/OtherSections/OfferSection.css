@@ -1,0 +1,6 @@
+.offerSection {
+  background-color: rgba(5, 11, 23, 0.053);
+  height: 400px;
+  display: flex;
+  flex-wrap: nowrap;
+}

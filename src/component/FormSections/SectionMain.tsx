@@ -10,7 +10,7 @@ import { PreviewSection } from './PreviewSection'
 import { ScheduleSection } from './ScheduleSection'
 import './SectorMain.css'
 import { WorkoutSections } from './WorkoutSections'
-export const SectionMain = () => {
+export const sSectionMain = () => {
   const [buttonText, setButtonText] = useState('Next')
   const [currentStep, setCurrentStep] = useState('workoutStep')
 

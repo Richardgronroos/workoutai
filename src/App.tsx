@@ -29,7 +29,7 @@ function App() {
     <UserContextProvider>
       <div
         className="App"
-        style={{ backgroundColor: mode.primary.main, color: mode.primary.text }}
+        style={{ color: mode.primary.text }}
       >
         <Navigation />
         <div style={{ minHeight: '90vh' }}>

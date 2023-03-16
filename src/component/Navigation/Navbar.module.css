@@ -3,7 +3,9 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #333;
+  /*  background-color: #333; */
+  background-color: #19384f;
+  box-shadow: 0 5px 7px 12px #19384f;
   color: #fff;
 }
 
@@ -26,5 +28,4 @@
 
 .navigation {
   height: 100%;
-  
 }
